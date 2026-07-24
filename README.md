@@ -1,24 +1,23 @@
 # Hi there, I'm Mohammad 👋
 
-I'm a Computer Science student at Yarmouk University 🎓, with a strong passion for software engineering, web development, and game server programming. 
+I'm a Computer Science student at Yarmouk University 🎓, with a strong passion for software engineering, game server programming, and web development. 
 
 ## 🚀 About Me
-- 💻 I specialize in writing and optimizing scripts for **FiveM** servers (UI, database configs, and custom menus).
-- 🌐 Experienced in full-stack web development, building management systems using **Django**, **HTML**, and **CSS**.
-- 🎬 I also enjoy producing and editing high-quality gaming content for YouTube.
-- 🎓 Currently expanding my knowledge in Data Structures, Problem Solving, and Software Engineering.
+- 🧠 Strong focus on **Problem Solving** and **Algorithms**.
+- 💻 I specialize in writing and optimizing scripts for **FiveM** servers.
+- 🌐 Experienced in web development using **HTML** and **CSS**.
+- 🎓 Constantly expanding my knowledge in Data Structures and Software Engineering.
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills & Tools
 **Programming Languages:**
 - Python
 - C++
 - Lua
 - HTML / CSS
 
-**Frameworks & Software:**
-- Django
+**Core Skills & Software:**
+- Problem Solving & Algorithms
 - Visual Studio Code & PyCharm
-- Adobe Premiere Pro
 
 ## 📫 Let's Connect
 - **Email:** mo7ammadn3amne7@gmail.com
