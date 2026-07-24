@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Mohammad 👋
 
-<!--
-**mo7ammadd/mo7ammadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Yarmouk University 🎓, with a strong passion for software engineering, web development, and game server programming. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I specialize in writing and optimizing scripts for **FiveM** servers (UI, database configs, and custom menus).
+- 🌐 Experienced in full-stack web development, building management systems using **Django**, **HTML**, and **CSS**.
+- 🎬 I also enjoy producing and editing high-quality gaming content for YouTube.
+- 🎓 Currently expanding my knowledge in Data Structures, Problem Solving, and Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+**Programming Languages:**
+- Python
+- C++
+- Lua
+- HTML / CSS
+
+**Frameworks & Software:**
+- Django
+- Visual Studio Code & PyCharm
+- Adobe Premiere Pro
+
+## 📫 Let's Connect
+- **Email:** mo7ammadn3amne7@gmail.com
