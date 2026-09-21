@@ -14,6 +14,7 @@ I'm a Computer Science student at Yarmouk University 🎓, with a strong passion
 - C++
 - Lua
 - HTML / CSS
+- C
 
 **Core Skills & Software:**
 - Problem Solving & Algorithms
